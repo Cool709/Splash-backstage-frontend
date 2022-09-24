@@ -1,3 +1,5 @@
+![Screenshot_8](https://user-images.githubusercontent.com/101523940/192076977-d4acc8ec-e133-4d98-b99f-6ffe6d353cab.png)
+
 ## Setup
 
 Be sure to be running Node v14.17.6 and yarn version 1.22.10.
